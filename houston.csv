@@ -1,0 +1,144 @@
+,Neighborhood,Zip,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,1960/Cypress,77065,29.927675,-95.60547,0.0,Spa,Mobile Phone Shop,Supermarket,Sandwich Place,Hawaiian Restaurant,Baseball Field,Video Game Store,Supplement Shop,Convenience Store,Pet Store
+1,Aldine Area,77039,29.909122999999997,-95.33683,,,,,,,,,,,
+2,Alief,77072,29.700898,-95.59002,0.0,Noodle House,Gas Station,Pizza Place,Vietnamese Restaurant,Massage Studio,Sandwich Place,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+3,Alvin North,77511,29.411479999999997,-95.24475,0.0,Fast Food Restaurant,Pizza Place,American Restaurant,Pharmacy,Fried Chicken Joint,Grocery Store,Taco Place,Sandwich Place,Yoga Studio,Garden Center
+4,Alvin South,77511,29.411479999999997,-95.24475,0.0,Fast Food Restaurant,Pizza Place,American Restaurant,Pharmacy,Fried Chicken Joint,Grocery Store,Taco Place,Sandwich Place,Yoga Studio,Garden Center
+5,Atascocita North,77346,30.001902,-95.16962,0.0,Department Store,Pizza Place,Fast Food Restaurant,Fried Chicken Joint,Mobile Phone Shop,Miscellaneous Shop,Mexican Restaurant,Pet Store,Breakfast Spot,Shoe Store
+6,Atascocita South,77396,29.951621000000003,-95.26785,0.0,Breakfast Spot,Electronics Store,Moving Target,Mobile Phone Shop,Dive Bar,Donut Shop,General Travel,General Entertainment,Diner,Gastropub
+7,Fall Creek Area,77396,29.951621000000003,-95.26785,0.0,Breakfast Spot,Electronics Store,Moving Target,Mobile Phone Shop,Dive Bar,Donut Shop,General Travel,General Entertainment,Diner,Gastropub
+8,Bacliff/San Leon,77518,29.504389,-94.98779,0.0,Thrift / Vintage Store,Dessert Shop,Mexican Restaurant,Casino,Yoga Studio,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop
+9,Bayou Vista,77563,29.339307,-95.00317,,,,,,,,,,,
+10,Hitchcock,77563,29.339307,-95.00317,,,,,,,,,,,
+11,Omega Bay,77563,29.339307,-95.00317,,,,,,,,,,,
+12,Baytown/Chambers County,77521,29.784578999999997,-94.97588,0.0,Mexican Restaurant,Fast Food Restaurant,Mobile Phone Shop,American Restaurant,Hookah Bar,Electronics Store,Grocery Store,Taco Place,Food,Gas Station
+13,Baytown/Harris County,77520,29.74877,-94.94389,0.0,Pawn Shop,Sandwich Place,Bar,Sports Bar,Bakery,Yoga Studio,Flea Market,Gastropub,Gas Station,Garden Center
+14,Bear Creek,77449,29.825908000000002,-95.7301,0.0,Professional & Other Places,Business Service,Yoga Studio,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+15,Katy - North,77449,29.825908000000002,-95.7301,0.0,Professional & Other Places,Business Service,Yoga Studio,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+16,Bellaire,77401,29.70403,-95.46099,0.0,Pharmacy,Yoga Studio,Fast Food Restaurant,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+17,Braeswood Place,77025,29.69023,-95.43474,0.0,Gas Station,Pharmacy,Gym,Park,Yoga Studio,Fast Food Restaurant,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+18,Knollwood/Woodside Area,77025,29.69023,-95.43474,0.0,Gas Station,Pharmacy,Gym,Park,Yoga Studio,Fast Food Restaurant,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+19,Brays Oaks,77031,29.654132,-95.54311,0.0,Pool,Yoga Studio,Fast Food Restaurant,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+20,Briargrove,77057,29.745129,-95.49131,0.0,Pool,Playground,Park,Massage Studio,Event Service,Flea Market,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop
+21,Briargrove Park/Walnut Bend,77042,29.741565,-95.55996,0.0,Hotel,Dessert Shop,Juice Bar,Shipping Store,Bank,Burger Joint,Mediterranean Restaurant,Coworking Space,Food,Café
+22,Rivercrest,77042,29.741565,-95.55996,0.0,Hotel,Dessert Shop,Juice Bar,Shipping Store,Bank,Burger Joint,Mediterranean Restaurant,Coworking Space,Food,Café
+23,Westchase Area,77042,29.741565,-95.55996,0.0,Hotel,Dessert Shop,Juice Bar,Shipping Store,Bank,Burger Joint,Mediterranean Restaurant,Coworking Space,Food,Café
+24,Briarmeadow/Tanglewilde,77063,29.734378999999997,-95.52269,0.0,Rental Car Location,Mobile Phone Shop,Turkish Restaurant,Food Truck,Gun Range,Martial Arts Dojo,BBQ Joint,Boutique,Department Store,Theater
+25,Charnwood/Briarbend,77063,29.734378999999997,-95.52269,0.0,Rental Car Location,Mobile Phone Shop,Turkish Restaurant,Food Truck,Gun Range,Martial Arts Dojo,BBQ Joint,Boutique,Department Store,Theater
+26,Brookshire,77423,29.80038,-95.98451999999999,,,,,,,,,,,
+27,Chambers County East,77514,29.689054,-94.66375,,,,,,,,,,,
+28,Champions Area,77069,29.984671999999996,-95.52887,0.0,Golf Course,Chinese Restaurant,Yoga Studio,General Travel,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+29,Clear Lake Area,77062,29.57493,-95.13238,0.0,Business Service,Trail,Yoga Studio,Flea Market,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+30,Cleveland Area,77327,30.35469,-95.04514,,,,,,,,,,,
+31,Coldspring/South San Jacinto County,77331,30.619313000000002,-95.13802,,,,,,,,,,,
+32,Conroe Northeast,77301,30.313308000000003,-95.45085,0.0,Thrift / Vintage Store,Discount Store,Burger Joint,Music Venue,Business Service,Yoga Studio,Gastropub,Gas Station,Garden Center,Furniture / Home Store
+33,Conroe Southeast,77301,30.313308000000003,-95.45085,0.0,Thrift / Vintage Store,Discount Store,Burger Joint,Music Venue,Business Service,Yoga Studio,Gastropub,Gas Station,Garden Center,Furniture / Home Store
+34,Conroe Southwest,77304,30.331459999999996,-95.50703,0.0,Intersection,Building,Construction & Landscaping,Event Service,Food,General Entertainment,Gastropub,Gas Station,Garden Center,Furniture / Home Store
+35,Copperfield Area,77095,29.896656,-95.64842,0.0,Playground,Diner,Business Service,Massage Studio,Other Repair Shop,Yoga Studio,Food,Gas Station,Garden Center,Furniture / Home Store
+36,Cottage Grove,77007,29.772627000000004,-95.40319000000001,0.0,Bar,Mediterranean Restaurant,Gym,Food Truck,Sports Bar,Burger Joint,Taco Place,Sandwich Place,Wings Joint,Massage Studio
+37,Memorial Park,77007,29.772627000000004,-95.40319000000001,0.0,Bar,Mediterranean Restaurant,Gym,Food Truck,Sports Bar,Burger Joint,Taco Place,Sandwich Place,Wings Joint,Massage Studio
+38,Rice Military/Washington Corridor,77007,29.772627000000004,-95.40319000000001,0.0,Bar,Mediterranean Restaurant,Gym,Food Truck,Sports Bar,Burger Joint,Taco Place,Sandwich Place,Wings Joint,Massage Studio
+39,Washington East/Sabine,77007,29.772627000000004,-95.40319000000001,0.0,Bar,Mediterranean Restaurant,Gym,Food Truck,Sports Bar,Burger Joint,Taco Place,Sandwich Place,Wings Joint,Massage Studio
+40,Crosby Area,77532,29.920121,-95.07327,0.0,Mexican Restaurant,BBQ Joint,Discount Store,Grocery Store,Gym,Food Truck,Food,Gastropub,Gas Station,Garden Center
+41,Crystal Beach,77650,29.431859999999997,-94.68252,0.0,Automotive Shop,German Restaurant,General Entertainment,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+42,Cypress North,77429,29.982746000000002,-95.66597,0.0,Park,Taxi,Bar,Yoga Studio,Flea Market,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop
+43,Cypress South,77433,29.884175,-95.72219,0.0,Pharmacy,Bubble Tea Shop,Bank,Ice Cream Shop,Japanese Restaurant,Cajun / Creole Restaurant,Fried Chicken Joint,Fast Food Restaurant,General Entertainment,Gastropub
+44,Dayton,77535,30.044219000000002,-94.88864000000001,0.0,Fast Food Restaurant,Grocery Store,Gas Station,American Restaurant,Bakery,Mexican Restaurant,Fried Chicken Joint,Smoke Shop,Gym,Discount Store
+45,Deer Park,77536,29.687657,-95.1201,0.0,Park,Pizza Place,Liquor Store,Spa,BBQ Joint,Seafood Restaurant,Shipping Store,Trail,Health Food Store,Fried Chicken Joint
+46,Denver Harbor,77020,29.775927000000003,-95.31836,0.0,Sandwich Place,Pharmacy,Fast Food Restaurant,Intersection,Snack Place,Bus Station,Bank,Gas Station,Video Store,Discount Store
+47,Dickinson,77539,29.468771999999998,-95.02689000000001,0.0,Breakfast Spot,Theater,Construction & Landscaping,Café,Health & Beauty Service,General Entertainment,Gastropub,Gas Station,Garden Center,Furniture / Home Store
+48,East End - Galveston,77550,29.298447999999997,-94.79316,0.0,Museum,Pharmacy,Tourist Information Center,Mexican Restaurant,Fried Chicken Joint,Gourmet Shop,Taco Place,Bar,Sandwich Place,Library
+49,Midtown - Galveston,77550,29.298447999999997,-94.79316,0.0,Museum,Pharmacy,Tourist Information Center,Mexican Restaurant,Fried Chicken Joint,Gourmet Shop,Taco Place,Bar,Sandwich Place,Library
+50,East End Revitalized,77003,29.749278000000004,-95.34741,0.0,Brewery,BBQ Joint,General Entertainment,Music Venue,Gym,Gym / Fitness Center,Trail,Gastropub,Gas Station,Garden Center
+51,Eldridge North,77041,29.858729999999998,-95.57243000000001,0.0,Waste Facility,Mexican Restaurant,Home Service,Restaurant,Yoga Studio,Fast Food Restaurant,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop
+52,Energy Corridor,77077,29.750897,-95.61255,0.0,Baseball Field,Pizza Place,Spa,Hookah Bar,Yoga Studio,Flea Market,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop
+53,Five Corners,77045,29.629110999999998,-95.43841,0.0,Art Gallery,Yoga Studio,Flea Market,General Entertainment,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+54,Fort Bend County North/Richmond,77469,29.584172,-95.74700000000001,0.0,Shopping Mall,BBQ Joint,Yoga Studio,General Travel,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+55,Fort Bend Southeast,77469,29.584172,-95.74700000000001,0.0,Shopping Mall,BBQ Joint,Yoga Studio,General Travel,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+56,Friendswood,77546,29.516872999999997,-95.19471999999999,0.0,Bakery,Ice Cream Shop,Pet Store,Assisted Living,Yoga Studio,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop
+57,Fulshear/South Brookshire/Simonton,77441,29.685917,-95.91804,,,,,,,,,,,
+58,Galleria,77056,29.747328000000003,-95.46931,0.0,Sandwich Place,Coffee Shop,Bank,Park,Deli / Bodega,Smoothie Shop,Vietnamese Restaurant,Supermarket,Food Truck,Shipping Store
+59,Tanglewood Area,77056,29.747328000000003,-95.46931,0.0,Sandwich Place,Coffee Shop,Bank,Park,Deli / Bodega,Smoothie Shop,Vietnamese Restaurant,Supermarket,Food Truck,Shipping Store
+60,Garden Oaks,77015,29.778526,-95.18118,0.0,Mexican Restaurant,Yoga Studio,German Restaurant,General Entertainment,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+61,North Channel,77015,29.778526,-95.18118,0.0,Mexican Restaurant,Yoga Studio,German Restaurant,General Entertainment,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+62,Greenway Plaza,77046,29.733181,-95.43131,0.0,Seafood Restaurant,Coffee Shop,Pet Store,Nightclub,Café,Mexican Restaurant,Clothing Store,Sandwich Place,Bar,Spa
+63,Gulfton,77081,29.70828,-95.48361,0.0,Latin American Restaurant,Fried Chicken Joint,Taco Place,Event Service,Mexican Restaurant,Pizza Place,Sushi Restaurant,Nail Salon,Spanish Restaurant,Fast Food Restaurant
+64,Heights/Greater Heights,77008,29.798777,-95.40951,0.0,Art Gallery,Yoga Studio,Restaurant,Mexican Restaurant,Breakfast Spot,Seafood Restaurant,Sushi Restaurant,Gourmet Shop,Beer Garden,Fast Food Restaurant
+65,Timbergrove/Lazybrook,77008,29.798777,-95.40951,0.0,Art Gallery,Yoga Studio,Restaurant,Mexican Restaurant,Breakfast Spot,Seafood Restaurant,Sushi Restaurant,Gourmet Shop,Beer Garden,Fast Food Restaurant
+66,Hempstead,77445,30.096649,-96.06979,0.0,Discount Store,Grocery Store,Donut Shop,Yoga Studio,Food,General Entertainment,Gastropub,Gas Station,Garden Center,Furniture / Home Store
+67,Highland Village/Midlane,77027,29.739029,-95.44364,0.0,Furniture / Home Store,Women's Store,Bank,Clothing Store,Cosmetics Shop,Sandwich Place,Coffee Shop,Mexican Restaurant,Men's Store,Shopping Mall
+68,Royden Oaks/Afton Oaks,77027,29.739029,-95.44364,0.0,Furniture / Home Store,Women's Store,Bank,Clothing Store,Cosmetics Shop,Sandwich Place,Coffee Shop,Mexican Restaurant,Men's Store,Shopping Mall
+69,Hobby Area,77061,29.66028,-95.28446,0.0,Rental Car Location,Donut Shop,Airport Terminal,General Travel,Hotel,Convenience Store,Mexican Restaurant,Furniture / Home Store,Food Truck,Fried Chicken Joint
+70,Hockley,77447,30.065152,-95.8144,,,,,,,,,,,
+71,Huffman Area,77336,30.045495000000003,-95.10714,,,,,,,,,,,
+72,Humble Area East,77338,30.005691,-95.28488,0.0,Fast Food Restaurant,Fried Chicken Joint,Gas Station,Mexican Restaurant,Convenience Store,Sandwich Place,Department Store,Video Store,Grocery Store,Deli / Bodega
+73,Humble Area South,77338,30.005691,-95.28488,0.0,Fast Food Restaurant,Fried Chicken Joint,Gas Station,Mexican Restaurant,Convenience Store,Sandwich Place,Department Store,Video Store,Grocery Store,Deli / Bodega
+74,Humble Area West,77338,30.005691,-95.28488,0.0,Fast Food Restaurant,Fried Chicken Joint,Gas Station,Mexican Restaurant,Convenience Store,Sandwich Place,Department Store,Video Store,Grocery Store,Deli / Bodega
+75,Kingwood South,77338,30.005691,-95.28488,0.0,Fast Food Restaurant,Fried Chicken Joint,Gas Station,Mexican Restaurant,Convenience Store,Sandwich Place,Department Store,Video Store,Grocery Store,Deli / Bodega
+76,Jersey Village,77040,29.878345,-95.53336999999999,,,,,,,,,,,
+77,Katy - Old Towne,77493,29.810278999999998,-95.82011,4.0,Construction & Landscaping,Home Service,Yoga Studio,Fast Food Restaurant,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+78,Katy - Southeast,77450,29.758799,-95.74750999999999,0.0,Pizza Place,Bubble Tea Shop,Bank,Coffee Shop,Mexican Restaurant,Korean Restaurant,Ice Cream Shop,Spa,Seafood Restaurant,Fried Chicken Joint
+79,Katy - Southwest,77494,29.760833,-95.81104,0.0,Athletics & Sports,Auto Garage,Yoga Studio,Food,General Travel,General Entertainment,Gastropub,Gas Station,Garden Center,Furniture / Home Store
+80,Kingwood East,77345,30.062435999999998,-95.16945,4.0,Construction & Landscaping,Yoga Studio,Flea Market,General Entertainment,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+81,Kingwood NW/Oakhurst,77339,30.053368,-95.21807,0.0,Playground,Cosmetics Shop,Furniture / Home Store,Food,Yoga Studio,Fast Food Restaurant,Gastropub,Gas Station,Garden Center,Frozen Yogurt Shop
+82,Kingwood West,77339,30.053368,-95.21807,0.0,Playground,Cosmetics Shop,Furniture / Home Store,Food,Yoga Studio,Fast Food Restaurant,Gastropub,Gas Station,Garden Center,Frozen Yogurt Shop
+83,La Marque,77568,29.366684000000003,-94.97391999999999,0.0,Insurance Office,Burger Joint,Deli / Bodega,General Entertainment,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+84,La Porte/Shoreacres,77571,29.666781,-95.04486999999999,,,,,,,,,,,
+85,Lake Conroe Area,77356,30.412228999999996,-95.6529,,,,,,,,,,,
+86,Lake Livingston Area,77351,30.712538000000002,-94.89915,,,,,,,,,,,
+87,League City,77573,29.502759,-95.08906,0.0,Dive Bar,IT Services,Bookstore,Convenience Store,Beer Garden,Yoga Studio,Food & Drink Shop,General Entertainment,Gastropub,Gas Station
+88,Liberty,77575,30.066734000000004,-94.76595,,,,,,,,,,,
+89,Magnolia/1488 East,77354,30.194267,-95.63918000000001,,,,,,,,,,,
+90,Magnolia/1488 West,77355,30.158706,-95.74464,0.0,Pool,Yoga Studio,Fast Food Restaurant,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+91,Medical Center Area,77030,29.704584000000004,-95.40465999999999,0.0,Hotel,ATM,Bank,Library,Gym / Fitness Center,Gym,Pizza Place,Deli / Bodega,Restaurant,Sandwich Place
+92,Medical Center South,77051,29.665429999999997,-95.36871,0.0,Mobile Phone Shop,Comfort Food Restaurant,Yoga Studio,Flea Market,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+93,Memorial Close In,77024,29.773994000000002,-95.51771,2.0,Clothing Store,Deli / Bodega,General Entertainment,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+94,Memorial Villages,77024,29.773994000000002,-95.51771,2.0,Clothing Store,Deli / Bodega,General Entertainment,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+95,Memorial West,77079,29.773018,-95.60125,0.0,Fried Chicken Joint,Deli / Bodega,Convenience Store,Mexican Restaurant,Soccer Field,Food Truck,Sandwich Place,Bookstore,Bistro,Supermarket
+96,Meyerland Area,77096,29.674336,-95.48123000000001,0.0,Photography Studio,Salon / Barbershop,Pizza Place,Mexican Restaurant,Café,Food & Drink Shop,Farmers Market,Non-Profit,Gym / Fitness Center,Tennis Court
+97,Midtown - Houston,77004,29.728779,-95.3657,0.0,Coffee Shop,Burger Joint,Art Gallery,Snack Place,Bar,Food,Gastropub,Gas Station,Garden Center,Furniture / Home Store
+98,Riverside,77004,29.728779,-95.3657,0.0,Coffee Shop,Burger Joint,Art Gallery,Snack Place,Bar,Food,Gastropub,Gas Station,Garden Center,Furniture / Home Store
+99,Mission Bend Area,77083,29.691714,-95.64978,0.0,Spa,Grocery Store,Furniture / Home Store,Discount Store,Kebab Restaurant,Pakistani Restaurant,Halal Restaurant,Yoga Studio,Flea Market,Garden Center
+100,Missouri City Area,77459,29.564346999999998,-95.54762,0.0,Park,Yoga Studio,Fast Food Restaurant,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+101,Sienna Area,77459,29.564346999999998,-95.54762,0.0,Park,Yoga Studio,Fast Food Restaurant,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+102,Montrose,77006,29.741878000000003,-95.38944000000001,0.0,Coffee Shop,Bar,Burger Joint,Japanese Restaurant,Cosmetics Shop,Mediterranean Restaurant,Smoothie Shop,Bubble Tea Shop,Chinese Restaurant,Breakfast Spot
+103,Near West End - Galveston,77554,29.221289000000002,-94.94455,1.0,Vacation Rental,Yoga Studio,Fast Food Restaurant,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+104,Tiki Island,77554,29.221289000000002,-94.94455,1.0,Vacation Rental,Yoga Studio,Fast Food Restaurant,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+105,West End - Galveston,77554,29.221289000000002,-94.94455,1.0,Vacation Rental,Yoga Studio,Fast Food Restaurant,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+106,Northeast Houston,77028,29.827315000000002,-95.28631,0.0,Burger Joint,Convenience Store,Fried Chicken Joint,Yoga Studio,Food,General Entertainment,Gastropub,Gas Station,Garden Center,Furniture / Home Store
+107,Northside,77092,29.833326,-95.47644,3.0,Moving Target,Yoga Studio,Flea Market,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+108,Oak Forest West Area,77092,29.833326,-95.47644,3.0,Moving Target,Yoga Studio,Flea Market,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+109,Northwest Houston,77088,29.879213,-95.45028,,,,,,,,,,,
+110,Oak Forest East Area,77018,29.825476000000002,-95.42619,0.0,Spa,Bank,Gas Station,Mexican Restaurant,Smoothie Shop,Sports Bar,Business Service,Swim School,Liquor Store,Bar
+111,Shepherd Park Plaza Area,77018,29.825476000000002,-95.42619,0.0,Spa,Bank,Gas Station,Mexican Restaurant,Smoothie Shop,Sports Bar,Business Service,Swim School,Liquor Store,Bar
+112,Pasadena,77506,29.705678000000002,-95.20215999999999,0.0,Mobile Phone Shop,Shoe Store,Mexican Restaurant,Auto Workshop,Office,General Entertainment,Gastropub,Gas Station,Garden Center,Furniture / Home Store
+113,Pearland,77581,29.562179999999998,-95.26982,0.0,Mexican Restaurant,Fast Food Restaurant,Chinese Restaurant,Supermarket,Pharmacy,Pet Store,Convenience Store,Automotive Shop,Gas Station,Garden Center
+114,Plantersville Area,77363,30.281863,-95.85325999999999,,,,,,,,,,,
+115,Porter/New Caney East,77357,30.170751,-95.17832,0.0,Playground,Pet Store,Scenic Lookout,Yoga Studio,Fast Food Restaurant,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+116,Porter/New Caney West,77365,30.102209000000002,-95.25748,4.0,Home Service,Yoga Studio,Flea Market,General Entertainment,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+117,Rice/Museum District,77005,29.717529,-95.42820999999999,0.0,Food,Bakery,Outdoors & Recreation,Yoga Studio,Flea Market,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop
+118,West University/Southside Area,77005,29.717529,-95.42820999999999,0.0,Food,Bakery,Outdoors & Recreation,Yoga Studio,Flea Market,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop
+119,River Oaks Area,77019,29.752528,-95.39923,0.0,Pub,Pizza Place,Department Store,Health Food Store,Bar,Lounge,Massage Studio,Gym,Sandwich Place,Food & Drink Shop
+120,Santa Fe,77510,29.371171,-95.08551999999999,0.0,Fast Food Restaurant,American Restaurant,Donut Shop,Mexican Restaurant,Asian Restaurant,Convenience Store,Fried Chicken Joint,Food,General Entertainment,Gastropub
+121,Sharpstown Area,77036,29.70053,-95.53514,0.0,Food Truck,Yoga Studio,Flea Market,General Entertainment,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+122,South Houston,77587,29.662229999999997,-95.23106,0.0,German Restaurant,Dive Bar,Beer Garden,Business Service,Skate Park,Market,Food Truck,General Entertainment,Gastropub,Gas Station
+123,Southbelt/Ellington,77034,29.636429999999997,-95.21789,0.0,Garden Center,Yoga Studio,Flea Market,General Entertainment,Gastropub,Gas Station,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+124,Spring Branch,77055,29.798877,-95.49629,0.0,Food,Insurance Office,Mexican Restaurant,Concert Hall,Bank,Flea Market,Yoga Studio,Gastropub,Gas Station,Garden Center
+125,Spring East,77373,30.056394,-95.38961,0.0,Pool,Park,Sandwich Place,Farmers Market,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+126,Spring Northeast,77386,30.128861999999998,-95.41896,0.0,Arts & Crafts Store,Business Service,Gym / Fitness Center,Home Service,Yoga Studio,Food,Gastropub,Gas Station,Garden Center,Furniture / Home Store
+127,Spring/Klein,77388,30.055195,-95.46826,0.0,Breakfast Spot,Convenience Store,Business Service,Automotive Shop,Donut Shop,Food Truck,General Travel,General Entertainment,Gastropub,Gas Station
+128,Spring/Klein/Tomball,77375,30.073775,-95.61882,0.0,Business Service,Home Service,Auto Workshop,Herbs & Spices Store,Health & Beauty Service,Yoga Studio,Flea Market,Gastropub,Gas Station,Garden Center
+129,Tomball,77375,30.073775,-95.61882,0.0,Business Service,Home Service,Auto Workshop,Herbs & Spices Store,Health & Beauty Service,Yoga Studio,Flea Market,Gastropub,Gas Station,Garden Center
+130,Stafford Area,77477,29.626186999999998,-95.57145,0.0,Food,General Travel,Medical Supply Store,Athletics & Sports,Food Truck,Food & Drink Shop,Flea Market,General Entertainment,Gastropub,Gas Station
+131,Sugar Land East,77478,29.627737,-95.62444,,,,,,,,,,,
+132,Sugar Land South,77479,29.573345,-95.63213,0.0,Tennis Court,Theater,Yoga Studio,Flea Market,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+133,Summerwood/Lakeshore,77044,29.88277,-95.16781999999999,,,,,,,,,,,
+134,Texas City,77590,29.395283000000003,-94.91759,0.0,Cosmetics Shop,Soccer Field,Bakery,Yoga Studio,Flea Market,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop
+135,The Woodlands,77380,30.143485,-95.46821,0.0,Resort,Burger Joint,Ice Cream Shop,Bank,Coffee Shop,Shipping Store,Chinese Restaurant,Gas Station,Mexican Restaurant,Bar
+136,Treasure Island - Galveston,77541,28.975246999999996,-95.34357,,,,,,,,,,,
+137,University Area,77021,29.695878999999998,-95.3573,,,,,,,,,,,
+138,Upper Kirby,77098,29.735529,-95.41405,0.0,Mexican Restaurant,New American Restaurant,Cosmetics Shop,Burger Joint,Italian Restaurant,Pizza Place,Shipping Store,Café,Sushi Restaurant,Mediterranean Restaurant
+139,Waller,77484,30.068888,-95.92499000000001,3.0,Moving Target,Yoga Studio,Flea Market,Gastropub,Gas Station,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
+140,Webster,77598,29.539581,-95.13467,0.0,Furniture / Home Store,Jewelry Store,Kids Store,Mexican Restaurant,Bookstore,Seafood Restaurant,Intersection,Sandwich Place,Spa,Burger Joint
+141,Willow Meadows Area,77035,29.654108,-95.47691999999999,0.0,Theater,Hardware Store,Bank,Tennis Court,Coffee Shop,Spa,Salon / Barbershop,Liquor Store,Dive Bar,Home Service
+142,Willowbrook,77064,29.923638,-95.55919,0.0,Chinese Restaurant,Pizza Place,Pharmacy,Sandwich Place,Yoga Studio,Garden Center,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint,Food Truck
